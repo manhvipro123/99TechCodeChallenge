@@ -17,5 +17,6 @@ Bonus: extra points if you use Vite for this task!
 Please submit your solution using the files provided in the skeletal repo, including any additional files your solution may use.
 
 ```js
-Hint: feel free to simulate or mock interactions with a backend service, e.g. implement a loading indicator with a timeout delay for the submit button is good enough.
+Hint: feel free to simulate or mock interactions with a backend service, 
+e.g. implement a loading indicator with a timeout delay for the submit button is good enough.
 ```
